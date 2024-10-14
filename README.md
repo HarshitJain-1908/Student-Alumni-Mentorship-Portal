@@ -1,6 +1,6 @@
 # Student Alumni Mentorship Portal
 
-![Project Logo](resources/logo.png)
+[Portal Demo](https://drive.google.com/file/d/1esUPzhyEO1DJyWVePq_Dw4x0xmCckNLa/view?usp=sharing)
 
 :star:**Please star the repository if you happen to like the project**
 
